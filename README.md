@@ -1,4 +1,8 @@
 # 👋 Hi, I'm Marc:
+🎯 Goal for 2024 is to earn my first dollar online 💸 <br> <br>
+feel free to schedule a call via [Tidycal](https://tidycal.com/doyouknowmarc). <br>
+At anytime you can reach out via Socials (see below)
+
 🔭 I’m currently working on some Python projects with Streamlit and Langchain<br>🌱 I’m currently learning machine learning stuff and some Azure
 
 
